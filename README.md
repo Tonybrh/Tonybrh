@@ -1,5 +1,5 @@
 ### Olá eu sou o Tonybrh
-- Sou novo nesse mundo
+- 👶Sou novo nesse mundo
 - 🔭 Estou buscando conhecimento
 - 🌱 Aprendendo front e back-end
 - 📫 Contate-me no email: antoniodias1106@gmail.com
