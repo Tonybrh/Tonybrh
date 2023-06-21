@@ -3,7 +3,7 @@
 - 🔭 Estou buscando conhecimento
 - 🌱 Aprendendo front e back-end
 - 📫 Contate-me no email: antoniodias1106@gmail.com
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/Tonybrh">
