@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C576C2&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Eduardo)](https://git.io/typing-svg)
 
-- 🌱 Aprendendo front e back-end
+- 🌱 Desenvolvedor fullstack
 - 📫 Contate-me no email: antoniodias1106@gmail.com
 
 
