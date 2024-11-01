@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C576C2&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Eduardo)](https://git.io/typing-svg)
+<div style="display:flex;">
+  <img  src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" min-width="400px" max-width="400px" width="400px" align="right" border-radius="/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C576C2&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Eduardo)](https://git.io/typing-svg)
 
 - 🌱 Desenvolvedor fullstack
 - 📫 Contate-me no email: antoniodias1106@gmail.com
@@ -47,4 +50,7 @@
 <a href="https://www.instagram.com/noneeeduardo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/antonio-dias-95177320a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</div>
+
+
 
