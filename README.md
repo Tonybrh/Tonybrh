@@ -1,18 +1,12 @@
 <div style="display:flex;">
-  <img  src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" min-width="400px" max-width="400px" width="400px" align="right" border-radius="/>
+  <img  src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" min-width="400px" max-width="400px" width="400px" align="right" height="500px" border-radius="/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C576C2&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Eduardo)](https://git.io/typing-svg)
 
 - 🌱 Desenvolvedor fullstack
 - 📫 Contate-me no email: antoniodias1106@gmail.com
 
-
-<div align="center">
-  <a href="https://github.com/Tonybrh">
-  <img  width = " 400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonybrh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width = " 400em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonybrh&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  <h1>Main skills </h1>
+<h1>Main skills </h1>
 
 <div style="display: inline_block"><br>
 
@@ -44,8 +38,16 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
- 
-</div >
+<div>
+  <h1>Estatísticas</h1>
+  <a href="https://github.com/Tonybrh">
+    <img height="200px"src="https://github-readme-stats.vercel.app/api?username=Tonybrh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonybrh&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
+</div>
+
+
+
 <h1>Redes</h1>
 <a href="https://www.instagram.com/noneeeduardo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/antonio-dias-95177320a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
