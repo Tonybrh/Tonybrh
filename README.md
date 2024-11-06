@@ -1,6 +1,5 @@
 <div style="display:flex;">
   <img  src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" min-width="400px" max-width="400px" width="400px" align="right" height="500px" border-radius="/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=F51BC8&width=480&height=70&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Eduardo)](https://git.io/typing-svg)
 - 🌱 Desenvolvedor fullstack
 - 📫 Contate-me no email: antoniodias1106@gmail.com
